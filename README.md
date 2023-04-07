@@ -1,1 +1,3 @@
-# zintpavowj-Zero_Trust_Score-based_Network_Level_AC_PAP
+# Zero Trust Score-based Network Level Access Control
+
+# Policy Administration Point Implementation
